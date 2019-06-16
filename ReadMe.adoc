@@ -6,10 +6,9 @@
 
 Play the classic mobile Snake game on Arduino. Eat the food, grow, don't hit your tail!
 
-![snake-assembled](https://raw.githubusercontent.com/e1-one/Arduino-Snake/master/docs/snake-game-assembled.gif)
+image::https://raw.githubusercontent.com/e1-one/Arduino-Snake/master/docs/snake-game-assembled.gif[snake-assembled]
 
-![snake-in-progress](https://raw.githubusercontent.com/e1-one/Arduino-Snake/master/docs/snake-game-circuit.gif)
-
+image::https://raw.githubusercontent.com/e1-one/Arduino-Snake/master/docs/snake-game-circuit.gif[snake-game-circuit]
 === Folder structure
 
 ....
