@@ -4,13 +4,11 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
-
 Play the classic mobile Snake game on Arduino. Eat the food, grow, don't hit your tail!
 
-![snake-assembled](./docs/snake-game-assembled.gif)
+![snake-assembled](https://raw.githubusercontent.com/e1-one/Arduino-Snake/master/docs/snake-game-assembled.gif)
 
-<img src="./docs/snake-game-circuit.gif" width="200" height="200" />
+![snake-in-progress](https://raw.githubusercontent.com/e1-one/Arduino-Snake/master/docs/snake-game-circuit.gif)
 
 === Folder structure
 
@@ -22,6 +20,7 @@ Play the classic mobile Snake game on Arduino. Eat the food, grow, don't hit you
   ├── led.h
   ├── game.h
   ├── helper.h
+  ├── /docs
   └── ReadMe.adoc          => this file
 ....
 
@@ -32,13 +31,13 @@ This project is released under a {License} License.
 The bill of the materials you need for this project.
 
 |===
-| ID | Part name           | Part number | Quantity
-| LM | 8x8 Led Matrix      |             | 1
-| LE | LED Display Driver  | MAX7219     | 1
-| PB | Passive Buzzer      | 2345-asdf   | 1
-| AU | Arduino Uno Board   |             | 1
-| BA | Lithium 9V  battery |             | 1
-| BU | Button | | 2
-| SW | Switch | | 1
+| ID | Part name           |Quantity
+| LM | 8x8 Led Matrix      | 1
+| LE | MAX7219 LED Display Driver | 1
+| PB | Passive Buzzer      | 1
+| AU | Arduino Uno Board   | 1
+| BA | Lithium 9V  battery | 1
+| BU | Button | 2
+| SW | Switch | 1
 |===
 
